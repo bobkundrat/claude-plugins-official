@@ -1,6 +1,6 @@
 # Diff Review Template
 
-Use this template when the artifact is about reviewing code diffs: git commits, pull requests, code changes with interactive line-by-line commenting for feedback.
+Use this template when the playground is about reviewing code diffs: git commits, pull requests, code changes with interactive line-by-line commenting for feedback.
 
 ## Layout
 
@@ -19,7 +19,7 @@ Use this template when the artifact is about reviewing code diffs: git commits, 
 +------------------------------------------------------+
 ```
 
-Diff review artifacts display git diffs with syntax highlighting. Users click lines to add comments, which become part of the generated prompt for code review feedback.
+Diff review playgrounds display git diffs with syntax highlighting. Users click lines to add comments, which become part of the generated prompt for code review feedback.
 
 ## Control types for diff review
 

@@ -1,6 +1,6 @@
 # Document Critique Template
 
-Use this template when the artifact helps review and critique documents: SKILL.md files, READMEs, specs, proposals, or any text that needs structured feedback with approve/reject/comment workflow.
+Use this template when the playground helps review and critique documents: SKILL.md files, READMEs, specs, proposals, or any text that needs structured feedback with approve/reject/comment workflow.
 
 ## Layout
 
@@ -153,7 +153,7 @@ function updatePrompt() {
 
 ## Pre-populating suggestions
 
-When building a critique artifact for a specific document:
+When building a critique playground for a specific document:
 
 1. Read the document content
 2. Analyze and generate suggestions with:

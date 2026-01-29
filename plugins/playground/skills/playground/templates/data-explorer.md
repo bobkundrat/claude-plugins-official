@@ -1,6 +1,6 @@
 # Data Explorer Template
 
-Use this template when the artifact is about data queries, APIs, pipelines, or structured configuration: SQL builders, API designers, regex builders, pipeline visuals, cron schedules.
+Use this template when the playground is about data queries, APIs, pipelines, or structured configuration: SQL builders, API designers, regex builders, pipeline visuals, cron schedules.
 
 ## Layout
 
@@ -47,7 +47,7 @@ function renderPreview() {
 }
 ```
 
-For pipeline-style artifacts, render a horizontal or vertical flow diagram using positioned divs with arrow connectors.
+For pipeline-style playgrounds, render a horizontal or vertical flow diagram using positioned divs with arrow connectors.
 
 ## Prompt output for data
 

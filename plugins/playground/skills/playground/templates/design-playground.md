@@ -1,6 +1,6 @@
 # Design Playground Template
 
-Use this template when the artifact is about visual design decisions: components, layouts, spacing, color, typography, animation, responsive behavior.
+Use this template when the playground is about visual design decisions: components, layouts, spacing, color, typography, animation, responsive behavior.
 
 ## Layout
 

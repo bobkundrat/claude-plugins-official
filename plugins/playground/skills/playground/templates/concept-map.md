@@ -1,6 +1,6 @@
 # Concept Map Template
 
-Use this template when the artifact is about learning, exploration, or mapping relationships: concept maps, knowledge gap identification, scope mapping, task decomposition with dependencies.
+Use this template when the playground is about learning, exploration, or mapping relationships: concept maps, knowledge gap identification, scope mapping, task decomposition with dependencies.
 
 ## Layout
 
@@ -18,7 +18,7 @@ Use this template when the artifact is about learning, exploration, or mapping r
 +-------------------------+------------+
 ```
 
-Canvas-based artifacts differ from the two-panel split. The interactive visual IS the control — users drag nodes and draw connections rather than adjusting sliders. The sidebar supplements with toggles and list controls.
+Canvas-based playgrounds differ from the two-panel split. The interactive visual IS the control — users drag nodes and draw connections rather than adjusting sliders. The sidebar supplements with toggles and list controls.
 
 ## Control types for concept maps
 

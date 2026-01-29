@@ -1,6 +1,6 @@
 # Code Map Template
 
-Use this template when the artifact is about visualizing codebase architecture: component relationships, data flow, layer diagrams, system architecture with interactive commenting for feedback.
+Use this template when the playground is about visualizing codebase architecture: component relationships, data flow, layer diagrams, system architecture with interactive commenting for feedback.
 
 ## Layout
 
@@ -20,7 +20,7 @@ Use this template when the artifact is about visualizing codebase architecture: 
 +-------------------+----------------------------------+
 ```
 
-Code map artifacts use an SVG canvas for the architecture diagram. Users click components to add comments, which become part of the generated prompt. Layer and connection filters let users focus on specific parts of the system.
+Code map playgrounds use an SVG canvas for the architecture diagram. Users click components to add comments, which become part of the generated prompt. Layer and connection filters let users focus on specific parts of the system.
 
 ## Control types for code maps
 
